@@ -5,8 +5,11 @@ export default function Practices() {
   return (
     <div>
       <HeadMetaTags title="Practices 🤠" />
-      <Nav />
-      <h1>Entró</h1>
+      <ul>
+        <li>Index</li>
+        <li>About</li>
+        <li>Services</li>
+      </ul>
     </div>
   );
 }
