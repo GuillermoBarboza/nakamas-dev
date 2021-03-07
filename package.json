@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@nlpjs/console-connector": "^4.21.1",
     "gsap": "^3.6.0",
     "next": "10.0.7",
     "node-nlp": "^4.21.3",

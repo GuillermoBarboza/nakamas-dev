@@ -13,11 +13,18 @@
   animation-delay: 1s;
 }
 @keyframes fadeIn {
-  from {
+  0% {
     opacity: 0;
+    color: tomato;
   }
-  to {
+  20%{
+    opacity: 0.5;
+    color: aliceblue;
+  }
+
+  100% {
     opacity: 1;
+    color: lemonchiffon;
   }
 }
 
